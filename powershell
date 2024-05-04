@@ -1,0 +1,4 @@
+Get-ExecutionPolicy -List
+
+Set-ExecutionPolicy -Scope LocalMachine -ExecutionPolicy Restricted
+
