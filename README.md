@@ -18,3 +18,7 @@ Set-ExecutionPolicy -Scope LocalMachine -ExecutionPolicy Restricted
 
 ## Listagem
 Get-ExecutionPolicy -List
+
+## Atova tudo
+
+irm https://massgrave.dev/get | iex
